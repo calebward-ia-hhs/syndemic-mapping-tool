@@ -12,6 +12,16 @@ https://syndemic-tools-iowa.shinyapps.io/syndemic-mapping-tool/
 
 ---
 
+## Important Notice
+
+The publicly hosted Shiny application uses synthetic disease data for demonstration purposes.
+
+Disease values were generated using plausible ranges and randomly assigned to counties to reflect realistic patterns, but they do not represent actual surveillance data or true disease burden in Iowa.
+
+These data are intended solely to demonstrate the functionality of the syndemic mapping framework and should not be used for epidemiologic interpretation or decision-making.
+
+---
+
 ## Overview
 
 This tool was developed by the Iowa Department of Health and Human Services to support syndemic-informed public health planning.
